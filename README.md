@@ -91,13 +91,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
       flex-wrap: wrap;
     ">
       <!-- Seção de texto -->
-      <div style="
-        flex: 0 0 45%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-      ">
+      <div>
         <ul style="list-style: none; padding: 0; margin: 0; text-align: center; line-height: 1.5;">
           <li><strong>🕸️ Spider-Man Multiverso</strong></li>
           <li>Website Interativo com Efeitos 3D</li>
