@@ -256,54 +256,6 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
              style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 24px rgba(255,255,255,0.1);">
       </div>
     </div>
-
-   <div style="
-      width: 100%;
-      background: #ffffff05;
-      border-radius: 15px;
-      padding: 1.5rem;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.1);
-      display: flex;
-      gap: 2rem;
-      align-items: center;
-      justify-content: center;
-      flex-wrap: wrap;
-    ">
-      <!-- Seção de texto -->
-      <div style="
-        flex: 0 0 45%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-      ">
-        <ul style="list-style: none; padding: 0; margin: 0; text-align: center; line-height: 1.5;">
-          <li><strong>📝 To Do List - Dark Forest</strong></li>
-          <li>Gerenciador de Tarefas Moderno</li>
-          <li>✔️ Persistência com Local Storage</li>
-          <li>🌑 Tema escuro minimalista</li>
-          <li>📱 Design totalmente responsivo</li>
-          <li style="margin-top: 1rem;">
-            <a href="https://github.com/DanAntunes/todo-list-dark-forest">
-              <img src="https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github" alt="Código">
-            </a>
-          </li>
-        </ul>
-      </div>
-      <!-- Seção de imagem -->
-      <div style="
-        flex: 0 0 45%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      ">
-        <img src="https://raw.githubusercontent.com/DanAntunes/todo-list-dark-forest/main/public/assets/image/screenshot.png" 
-             alt="Preview To Do List" 
-             style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 24px rgba(255,255,255,0.1);">
-      </div>
-    </div>
-
-  </div>
 </details>
 
 
