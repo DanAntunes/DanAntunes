@@ -291,15 +291,9 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
         </ul>
       </div>
       <!-- Seção de imagem -->
-      <div style="
-        flex: 0 0 45%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      ">
+      <div>
         <img src="https://raw.githubusercontent.com/DanAntunes/todo-list-dark-forest/main/public/assets/image/screenshot.png" 
-             alt="Preview To Do List" 
-             style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 24px rgba(255,255,255,0.1);">
+             alt="Preview To Do List">
       </div>
     </div>
 
@@ -328,7 +322,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
 
 
 
-<div style="width: 100%; text-align: center;">
+<div>
   <picture style="display: inline-block; width: 100%;">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanAntunes/DanAntunes/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanAntunes/DanAntunes/output/github-contribution-grid-snake.svg">
