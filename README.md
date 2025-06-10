@@ -200,12 +200,7 @@ Desenvolvedor Front-End Júnior com experiência em criação de interfaces web 
         </ul>
       </div>
       <!-- Seção de imagem -->
-      <div style="
-        flex: 0 0 45%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      ">
+      <div>
         <img src="./public/orcamento.png" 
              alt="Preview Orçamento" 
              style="max-width: 100%; border-radius: 15px; box-shadow: 0 8px 24px rgba(255,255,255,0.1);">
